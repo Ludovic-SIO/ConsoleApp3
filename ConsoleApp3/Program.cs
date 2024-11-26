@@ -30,7 +30,6 @@ namespace ConsoleApp3
                 Console.WriteLine("Le montant est {0}",a);
             }
                
-            Console.WriteLine("Le montant en euros est {0}",ConvertBtToE(a));
             Console.ReadKey();
         }
     }
